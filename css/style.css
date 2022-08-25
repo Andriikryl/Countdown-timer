@@ -4,4 +4,22 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+}
+
+.timer {
+  background-image: url(/images/believe_by_martinstranka_darigu7-pre-2.jpg);
+  min-height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.timer .container {
+  max-width: 1240px;
+  padding-inline: 20px;
+  margin: 0 auto;
+}
+.timer .container .timer__base {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }/*# sourceMappingURL=style.css.map */
